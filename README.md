@@ -4,6 +4,6 @@ I've been making things for 20+ years. It started on MS-DOS, editing config file
 
 iOS developer first, then full stack, then leading web and mobile teams. These days it's mostly web, mobile and AI, plus too many side projects.
 
-**Stack:** TypeScript · React · Next.js · iOS · Shopify · n8n
+**Things I'm good at:** shipping things, fixing things, and turning *"it works on my machine"* into *"it works on yours"*.
 
-My cat does code review.
+**Things my cat is good at:** sitting on the keyboard right before I push.
